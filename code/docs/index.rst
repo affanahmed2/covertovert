@@ -6,7 +6,7 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Affan Ahmed-2546331, Mohammed Taha Khan-2547222, Group 18
 
 
 .. toctree::
